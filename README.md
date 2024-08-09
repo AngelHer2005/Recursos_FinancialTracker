@@ -1,2 +1,2 @@
-# Recursos_FinancialTracker
+# Recursos FinancialTracker
 https://mariadb.com/downloads/
